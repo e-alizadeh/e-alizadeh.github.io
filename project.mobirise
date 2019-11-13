@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 14,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.5",
     "favicon": "@PROJECT_PATH@/assets/images/logo2-200x200-1.png",
     "": "on",
@@ -627,7 +627,7 @@
         }
       ]
     },
-    "about_me.html": {
+    "about.html": {
       "settings": {
         "meta_descr": "Biography",
         "title": "About Me",
